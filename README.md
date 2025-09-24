@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Dynamic Portfolio Builder
 
 This project is a web application built with **Java Servlets, JSP, and Tailwind CSS** that empowers users to create stunning, interactive, and fully responsive personal portfolios in just a few minutes. It's designed for developers, designers, and creatives who need a quick and professional way to showcase their skills and projects to potential clients or employers.
@@ -74,3 +75,6 @@ Client Browser -> Web Server (Tomcat) -> Servlet (Controller) -> Database/Logic 
 1.  **Clone the repository:**
     ```bash
     git clone
+=======
+# Portfolio_BuilderPro
+>>>>>>> e80b0ec2b1644c89a2483a521b0778fd86b7e1d6
